@@ -2,7 +2,17 @@
 
 ## Project Overview
 
-This is a Python project for [describe your project's purpose]. We use `uv` for all dependency management and project execution.
+This is a Python project for a local-first, multi-agent AI system for automating job searches. We use `uv` for all dependency management and project execution.
+
+## Required Libraries
+
+The following Python libraries are required for this project:
+
+- `pyautogen`
+- `chromadb`
+- `duckduckgo-search`
+- `requests`
+- `beautifulsoup4`
 
 ## Directives for Python Scripts
 

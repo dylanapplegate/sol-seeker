@@ -1,0 +1,7 @@
+
+# HARD REQUIREMENTS (MUST-HAVES)
+- Must mention "python"
+- Must be in "Boulder, CO" or "Remote"
+
+# HARD REJECTIONS (DEAL-BREAKERS)
+- Reject if title includes "Senior" or "Principal"
